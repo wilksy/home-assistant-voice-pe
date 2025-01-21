@@ -1510,7 +1510,7 @@ voice_kit:
 external_components:
   - source:
       type: git
-      url: https://github.com/esphome/home-assistant-voice-pe
+      url: https://github.com/wilksy/home-assistant-voice-pe
       ref: dev
     components:
       - aic3204
